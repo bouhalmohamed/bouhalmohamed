@@ -1,54 +1,54 @@
-## 👋 Bonjour, je suis Mohamed Bouhal
+## 👋 Hi, I'm Mohamed Bouhal
 
-🎓 Ingénieur IA, diplômé de l'ENSICAEN (majeure Intelligence Artificielle, Image & Son)<br>
-💡 Computer Vision, Deep Learning et IA générative<br>
-📍 Mobile en France · Disponible immédiatement en CDI<br>
+🎓 AI Engineer, graduated from ENSICAEN (major in Artificial Intelligence, Image & Sound)<br>
+💡 Computer Vision, Deep Learning and Generative AI<br>
+📍 Open to relocation anywhere in France · Available now for a full-time role<br>
 🔗 [LinkedIn](https://linkedin.com/in/mohamed-bouhal) · ✉️ m.bouhal21@gmail.com
 
-## 🚀 Projets phares
+## 🚀 Featured Projects
 
-### 🥊 Analyse vidéo de combats de boxe — Orion Sportech × GREYC (PFE)
-*Système de Computer Vision qui décrit chaque coup filmé par une seule caméra*
-- Score F1 de 95 % sur la main qui frappe et de 84 % sur l'attaquant, sur des combats jamais vus
-- Pipeline de données construit de zéro (extraction, annotation, contrôle qualité)
-- Démonstrateur web à 10,6 images/s sur GPU gratuits (projet confidentiel)
+### 🥊 Boxing Video Analysis — Orion Sportech × GREYC (Master's thesis project)
+*Computer Vision system that describes every punch filmed by a single camera*
+- F1 score of 95% on the punching hand and 84% on the attacker, on unseen fights
+- Data pipeline built from scratch (extraction, annotation, quality control)
+- End-to-end web demo running at 10.6 FPS on free GPUs (confidential project)
 
-### 🛡️ [OrangeShield](https://github.com/bouhalmohamed/OrangeShield) — projet industriel Orange
-*Protège les documents administratifs contre la retouche par IA générative*
-- Motifs qui brouillent les modèles de diffusion, filigrane visible, signature invisible (TrustMark)
-- Robustesse éprouvée par red-teaming (injection de prompt, perturbations adversariales)
+### 🛡️ [OrangeShield](https://github.com/bouhalmohamed/OrangeShield) — Orange industrial project
+*Protects administrative documents against tampering by generative AI*
+- Patterns that disrupt diffusion models, visible watermark, invisible signature (TrustMark)
+- Robustness tested through red-teaming (prompt injection, adversarial perturbations)
 - Python, Flask, Docker, pytest
 
-### 🧒 [SecureChat / protectchildren](https://github.com/bouhalmohamed/protectchildren) — UniMAP, Malaisie
-*Chat sécurisé pour enfants qui reconnaît l'âge et le genre à la frappe au clavier*
-- 99,8 % de bonnes prédictions sur l'âge, 80,8 % sur le genre
-- Réseau multi-tâches PyTorch, service Flask, alerte en cas d'usurpation de compte
+### 🧒 [SecureChat / protectchildren](https://github.com/bouhalmohamed/protectchildren) — UniMAP, Malaysia
+*Secure chat for children that recognizes age and gender from typing patterns*
+- 99.8% accuracy on age, 80.8% on gender
+- Multi-task PyTorch network, Flask service, alerts on account impersonation
 
-### 🏠 Plateforme Data & ML sur Google Cloud — open data DVF
-*Modèle de prix au m² et assistant Gemini qui répond en langage naturel sur les ventes immobilières*
-- Erreur réduite de 19 % face à la référence, meilleur dans 22 segments sur 22
+### 🏠 Data & ML Platform on Google Cloud — French real estate open data (DVF)
+*Price-per-m² model plus a Gemini assistant that answers questions about property sales in plain language*
+- 19% lower error than the baseline, better in 22 out of 22 segments
 - dbt, BigQuery ML, Airflow, Terraform, Vertex AI, Streamlit
 
-### 🧠 HybridMind — projet intensif avec Schneider Electric
-*Assistant RAG multimodal en cinq langues, conçu en une semaine*
+### 🧠 HybridMind — intensive project with Schneider Electric
+*Multimodal RAG assistant in five languages, built in one week*
 - LLaMA 3.1, Whisper, CLIP/BLIP-2, pgvector, Qdrant
 
 ### 🏋️ [FitnessCounter](https://github.com/bouhalmohamed/FitnessCounter)
-*Compteur de répétitions en temps réel par estimation de pose (MediaPipe, OpenCV)*
+*Real-time exercise rep counter using pose estimation (MediaPipe, OpenCV)*
 
-## 🧰 Stack technique
+## 🧰 Tech Stack
 
-**Langages :** Python, C/C++, Java, SQL, Bash<br>
-**Deep Learning & vision :** PyTorch, CNN, Transformers, GNN, OpenCV<br>
-**IA générative :** RAG multimodal, embeddings, recherche sémantique, LLaMA 3.1, Whisper, CLIP/BLIP-2<br>
-**Cloud & data :** GCP (BigQuery, Vertex AI), dbt, Airflow, Terraform, Docker, CI/CD
+**Languages:** Python, C/C++, Java, SQL, Bash<br>
+**Deep Learning & Vision:** PyTorch, CNN, Transformers, GNN, OpenCV<br>
+**Generative AI:** multimodal RAG, embeddings, semantic search, LLaMA 3.1, Whisper, CLIP/BLIP-2<br>
+**Cloud & Data:** GCP (BigQuery, Vertex AI), dbt, Airflow, Terraform, Docker, CI/CD
 
-## 🎓 Formation
+## 🎓 Education
 
-- **ENSICAEN** — Diplôme d'ingénieur, majeure IA, Image & Son (2023–2026)
-- **CPGE MP**, Agadir — major de classe (2021–2023)
+- **ENSICAEN** — Engineering degree (Master's level), AI, Image & Sound major (2023–2026)
+- **Classes Préparatoires (MP)**, Agadir — intensive math & physics program, top of class (2021–2023)
 
-## 📫 Contact
+## 📫 Let's Connect
 
-Ouvert aux opportunités en Computer Vision, Deep Learning et IA générative.<br>
+Open to opportunities in Computer Vision, Deep Learning and Generative AI.<br>
 📩 m.bouhal21@gmail.com
