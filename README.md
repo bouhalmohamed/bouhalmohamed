@@ -3,7 +3,7 @@
 🎓 AI Engineer, graduated from ENSICAEN (major in Artificial Intelligence, Image & Sound)<br>
 💡 Computer Vision, Deep Learning and Generative AI<br>
 📍 Open to relocation anywhere in France · Available now for a full-time role<br>
-🔗 [LinkedIn](https://linkedin.com/in/mohamed-bouhal) · ✉️ m.bouhal21@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-bouhal/) · ✉️ m.bouhal21@gmail.com
 
 ## 🚀 Featured Projects
 
